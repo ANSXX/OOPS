@@ -1,7 +1,8 @@
 # OOPS
 
 ## Contents
-### Classes & Objects
+1. Classes & Objects
+1. Classes & Objects
 
 
 
