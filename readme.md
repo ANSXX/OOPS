@@ -1,8 +1,8 @@
 # OOPS
 
 ## Contents
-1. Classes & Objects
-1. Classes & Objects
+### 1. Classes & Objects
+### 2. Classes & Objects
 
 
 
