@@ -53,11 +53,11 @@ class firstOops{
 }
 ```
 
-###Java Class Attributes.
+### Java Class Attributes.
 
 Java class attributes are the variables that are bound in a class i.e., the variables which are used to define a class are class attributes. 
 
-###Java Class Methods.
+### Java Class Methods.
 
 Class methods declaration is similar to the user-defined methods declaration except that class methods are declared within a class.
 
